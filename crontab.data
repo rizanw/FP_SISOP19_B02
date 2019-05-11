@@ -1,4 +1,8 @@
-2 * *  *             *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/file.txt
-* * *  *          *              rm -rf /home/rizk/Desktop/FP_SISOP19_B02/coba/*.txt
-* * *  *      *                  rm /home/rizk/Desktop/FP_SISOP19_B02/coba/*.vid
-* * *  *             *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/new.txt
+* * * * *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/new.txt
+* * * * *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/file1.txt
+* * * * *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/file2.txt
+* * * * *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/file3.txt
+* * * * *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/file4.txt
+
+* * * * *           rm /home/rizk/Desktop/FP_SISOP19_B02/coba/file3.txt
+* * * * *           rm /home/rizk/Desktop/FP_SISOP19_B02/coba/file4.txt
