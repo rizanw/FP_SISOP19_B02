@@ -8,3 +8,7 @@ Buatlah program C yang menyerupai crontab menggunakan daemon dan thread. Ada seb
 ### Penjelasan:   
 
 
+#### Reference:   
+- https://github.com/rohanaq/sisop-modul-1
+- https://github.com/yoshimaputri/sisop-modul-2
+- https://github.com/nahdazahra/sisop-modul-3
