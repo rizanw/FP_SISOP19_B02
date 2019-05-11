@@ -1,0 +1,4 @@
+2 * *  *             *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/file.txt
+* * *  *          *              rm -rf /home/rizk/Desktop/FP_SISOP19_B02/coba/*.txt
+* * *  *      *                  rm /home/rizk/Desktop/FP_SISOP19_B02/coba/*.vid
+* * *  *             *           touch /home/rizk/Desktop/FP_SISOP19_B02/coba/new.txt
